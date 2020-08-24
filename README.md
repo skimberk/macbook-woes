@@ -11,6 +11,9 @@
 6. Ran `sudo touch /Library/Extensions`
 7. Ran `sudo kextcache -i /` and made sure it loaded ok
 
+- Use the `F1` and `F2` keys to change the brightness (not the actual brightness keys, need to hold `fn` while pressing them).
+- Backlight still seems to be off when waking from sleep, however if I put in my password (with the backlight off), press enter, then adjust the brightness (using `fn`-`F1` or `fn`-`F2`), the backlight comes back on.
+
 
 ### Related links
 
